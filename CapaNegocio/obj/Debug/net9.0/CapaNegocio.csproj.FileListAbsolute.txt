@@ -1,0 +1,54 @@
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNego.81B9D119.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocio.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.sourcelink.json
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.deps.json
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNego.81B9D119.Up2Date
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocio.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaNegocio.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNego.81B9D119.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocio.dll

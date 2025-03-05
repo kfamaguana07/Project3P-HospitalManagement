@@ -1,0 +1,54 @@
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.runtimeconfig.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.genruntimeconfig.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.runtimeconfig.json
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.sourcelink.json
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\CapaDatos.genruntimeconfig.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaDatos.runtimeconfig.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\CapaDatos.genruntimeconfig.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll

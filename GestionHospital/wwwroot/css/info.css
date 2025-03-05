@@ -1,0 +1,113 @@
+﻿
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #e6f0ff, #cce0ff); /* Gradiente azul claro */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* Cambia a columna para apilar tarjetas */
+    gap: 20px;
+    max-width: 1200px; /* Ancho máximo para mejor lectura */
+    padding: 20px;
+}
+
+.card {
+    background-color: #ffffff; /* Fondo blanco para modo claro */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Ocupa todo el ancho disponible */
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .card h2 {
+        font-size: 24px;
+        color: #2c3e50; /* Azul oscuro */
+        margin-bottom: 15px;
+        text-align: center;
+        transition: color 0.3s ease;
+    }
+
+    .card p {
+        font-size: 14px;
+        color: #34495e; /* Gris azulado */
+        line-height: 1.6;
+        transition: color 0.3s ease;
+    }
+
+    .card ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        .card ul li {
+            margin-bottom: 10px;
+            font-size: 14px;
+            color: #34495e;
+            transition: color 0.3s ease;
+        }
+
+            .card ul li i {
+                margin-right: 10px;
+                color: #3498db; /* Azul */
+                transition: color 0.3s ease;
+            }
+
+    .card a {
+        text-decoration: none;
+        color: #3498db;
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+        .card a:hover {
+            text-decoration: underline;
+        }
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background: linear-gradient(135deg, #0a1f3d, #1c2e4a); /* Gradiente azul oscuro */
+    color: #f1f1f1;
+}
+
+    body.dark-mode .card {
+        background-color: #1c2e4a; /* Azul oscuro */
+        color: #ecf0f1;
+    }
+
+        body.dark-mode .card h2 {
+            color: #ffffff; /* Blanco */
+        }
+
+        body.dark-mode .card p {
+            color: #dcdde1; /* Gris claro */
+        }
+
+        body.dark-mode .card ul li {
+            color: #dcdde1; /* Gris claro */
+        }
+
+            body.dark-mode .card ul li i {
+                color: #3a7bd5; /* Azul medio */
+            }
+
+        body.dark-mode .card a {
+            color: #3a7bd5; /* Azul medio */
+        }
+
+            body.dark-mode .card a:hover {
+                color: #5a9bff; /* Azul claro */
+            }

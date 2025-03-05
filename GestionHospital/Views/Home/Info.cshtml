@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Salud Integral</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="~/css/info.css" rel="stylesheet" />
+</head>
+<body class="light-mode">
+
+
+    <div class="container">
+        <!-- Card 1: Acerca de Nosotros -->
+        <div class="card">
+            <h2>Acerca de Nosotros</h2>
+            <p>
+                En <strong>KODEMED HOSPITAL</strong>, nos dedicamos a brindar atención médica de calidad y personalizada. Nuestro equipo de profesionales está comprometido con el bienestar de nuestros pacientes.
+            </p>
+            <ul>
+                <li><i class="fas fa-users"></i><strong>Pacientes:</strong> Gestionamos información personal y médica de manera segura y confidencial.</li>
+                <li><i class="fas fa-user-md"></i><strong>Médicos:</strong> Contamos con un equipo de profesionales altamente calificados y especializados.</li>
+                <li><i class="fas fa-stethoscope"></i><strong>Especialidades:</strong> Ofrecemos un amplio listado de especialidades médicas para cubrir todas las necesidades.</li>
+                <li><i class="fas fa-calendar-check"></i><strong>Citas:</strong> Programa y gestiona tus citas médicas de manera rápida y eficiente.</li>
+                <li><i class="fas fa-pills"></i><strong>Tratamientos:</strong> Diseñamos planes de tratamiento personalizados para cada paciente.</li>
+                <li><i class="fas fa-file-invoice-dollar"></i><strong>Facturación:</strong> Proporcionamos transparencia en los pagos y facturas generadas.</li>
+            </ul>
+            <p>
+                Nuestra misión es garantizar la salud y el bienestar de nuestros pacientes mediante un servicio integral y de alta calidad.
+            </p>
+        </div>
+
+        <!-- Card 2: Política de Privacidad -->
+        <div class="card">
+            <h2>Política de Privacidad</h2>
+            <p>
+                En <strong>KODEMED HOSPITAL</strong>, respetamos y protegemos tu privacidad. Toda la información personal y médica de nuestros pacientes es tratada con la máxima confidencialidad y seguridad.
+            </p>
+            <ul>
+                <li><i class="fas fa-shield-alt"></i><strong>Protección de datos:</strong> Utilizamos tecnologías avanzadas para proteger tu información.</li>
+                <li><i class="fas fa-lock"></i><strong>Acceso restringido:</strong> Solo personal autorizado tiene acceso a la información médica.</li>
+                <li><i class="fas fa-user-secret"></i><strong>Uso responsable:</strong> Tu información solo se utiliza para mejorar la atención médica.</li>
+                <li><i class="fas fa-check-circle"></i><strong>Transparencia:</strong> Te informamos sobre cómo y por qué usamos tus datos.</li>
+            </ul>
+            <p>
+                Para más detalles, consulta nuestra <a href="#">Política de Privacidad completa</a>.
+            </p>
+        </div>
+
+        <!-- Card 3: Términos y Condiciones -->
+        <div class="card">
+            <h2>Términos y Condiciones</h2>
+            <p>
+                Al utilizar los servicios de <strong>KODEMED HOSPITAL</strong>, aceptas nuestros términos y condiciones. Te invitamos a revisarlos detenidamente para comprender tus derechos y responsabilidades.
+            </p>
+            <ul>
+                <li><i class="fas fa-file-contract"></i><strong>Uso de la plataforma:</strong> Debes utilizar nuestros servicios de manera adecuada y responsable.</li>
+                <li><i class="fas fa-exclamation-circle"></i><strong>Responsabilidades del paciente:</strong> Es importante proporcionar información veraz y actualizada.</li>
+                <li><i class="fas fa-balance-scale"></i><strong>Normativas legales:</strong> Cumplimos con todas las normativas de salud y protección de datos.</li>
+                <li><i class="fas fa-question-circle"></i><strong>Dudas y consultas:</strong> Si tienes preguntas, no dudes en contactarnos.</li>
+            </ul>
+            <p>
+                Para más información, consulta nuestros <a href="#">Términos y Condiciones completos</a>.
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Lógica para cambiar entre modo claro y oscuro
+        const modeToggle = document.getElementById('mode-toggle');
+        const body = document.body;
+
+        modeToggle.addEventListener('change', () => {
+            body.classList.toggle('dark-mode');
+            body.classList.toggle('light-mode');
+        });
+    </script>
+</body>
+</html>

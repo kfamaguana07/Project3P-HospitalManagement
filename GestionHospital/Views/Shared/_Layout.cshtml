@@ -1,0 +1,286 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MiPrimeraAPPAspNetCore</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<link href="~/css/shared.css" rel="stylesheet" />
+
+</head>
+<body>
+    <nav class="side-nav">
+        <!-- Icono en la parte superior -->
+        <div class="text-center mb-4">
+            <i class="fa-solid fa-hospital-user" style="font-size: 4rem; color: #ecf0f1;"></i>
+        </div>
+
+        <!-- Botón deslizable para cambiar entre modos -->
+        <div class="text-center mb-4">
+            <label class="switch">
+                <input type="checkbox" id="toggle-theme">
+                <span class="slider"></span>
+                <i class="fa fa-sun mode-icon" id="sun-icon"></i>
+                <i class="fa fa-moon mode-icon" id="moon-icon"></i>
+            </label>
+        </div>
+
+        <ul class="nav-menu">
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                    <i class="fa fa-home"></i> Inicio
+                </a>
+            </li>
+
+            @if (User.IsInRole("Admin") || User.IsInRole("Staff") || User.IsInRole("Doctor"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Paciente" asp-action="Index">
+                        <i class="fa-solid fa-users"></i> Pacientes
+                    </a>
+                </li>
+            }
+
+            @if (User.IsInRole("Patient") )
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Paciente" asp-action="InfoPersonal">
+                        <i class="fa-solid fa-user"></i> Mi informacion
+                    </a>
+                </li>
+            }
+
+            @if (User.IsInRole("Admin") || User.IsInRole("Staff"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Medico" asp-action="Index">
+                        <i class="fa fa-medkit"></i> Médicos
+                    </a>
+                </li>
+            }
+
+            @if (User.IsInRole("Doctor"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Medico" asp-action="InfoPersonal">
+                        <i class="fa-solid fa-user"></i> Mi informacion
+                    </a>
+                </li>
+            }
+
+
+            @if (User.IsInRole("Admin") || User.IsInRole("Staff") || User.IsInRole("Doctor") || User.IsInRole("Patient"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Cita" asp-action="Index">
+                        <i class="fa fa-calendar"></i> Citas
+                    </a>
+                </li>
+            }
+
+            @if (User.IsInRole("Admin") || User.IsInRole("Staff") || User.IsInRole("Doctor"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Tratamiento" asp-action="Index">
+                        <i class="fa fa-pills"></i> Tratamientos
+                    </a>
+                </li>
+            }
+
+            @if (User.IsInRole("Admin") || User.IsInRole("Staff") || User.IsInRole("Patient"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Facturacion" asp-action="Index">
+                        <i class="fa fa-money-bill-wave"></i> Facturación
+                    </a>
+                </li>
+            }
+
+            <!-- Login/Logout en la parte inferior -->
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <li class="nav-item nav-login">
+                    <form asp-controller="Account" asp-action="Logout" method="post" class="form-inline">
+                        <button type="submit" class="nav-link">
+                            <i class="fa fa-sign-out-alt"></i> Cerrar Sesion
+                        </button>
+                    </form>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item nav-login">
+                    <a class="nav-link" asp-controller="Account" asp-action="Login">
+                        <i class="fa fa-sign-in-alt"></i> Iniciar Sesion
+                    </a>
+                </li>
+            }
+        </ul>
+
+
+    </nav>
+
+    <div class="content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+        <footer class="footer mt-auto py-4">
+            <div class="container">
+                <div class="row">
+                    <!-- Columna 1: Información de contacto -->
+                    <div class="col-md-4 mb-4">
+                        <h5 class="footer-title">Contacto</h5>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-map-marker-alt me-2"></i> Av. Principal 123, Ciudad, País</li>
+                            <li><i class="fas fa-phone me-2"></i> +123 456 7890</li>
+                            <li><i class="fas fa-envelope me-2"></i> info@miprimerapp.com</li>
+                        </ul>
+                    </div>
+
+                    <!-- Columna 2: Enlaces útiles -->
+                    <div class="col-md-4 mb-4">
+                        <h5 class="footer-title">Enlaces Rápidos</h5>
+                        <ul class="list-unstyled">
+                            <li> <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index"><i class="fas fa-chevron-right me-2"></i> Inicio</></a></li>
+                            <li><a href="https://www.salud.gob.ec/servicios-3/" target="_blank" class="text-decoration-none"><i class="fas fa-chevron-right me-2"></i> Servicios</a></li>
+                            <li><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Info"><i class="fas fa-chevron-right me-2"></i> Acerca de Nosotros</a></li>
+                            <li><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Info"><i class="fas fa-chevron-right me-2"></i> Política de Privacidad</a></li>
+                            <li><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Info"><i class="fas fa-chevron-right me-2"></i> Términos y Condiciones</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Columna 3: Mapa de ubicación -->
+                    <div class="col-md-4 mb-4">
+                        <h5 class="footer-title">Ubicación</h5>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.8354345093747!2d-122.4194155846816!3d37.77492997975921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c6c8f4459%3A0xb10ed6d9b5050fa5!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1629990000000!5m2!1sen!2sus"
+                                    width="100%"
+                                    height="150"
+                                    style="border:0;"
+                                    allowfullscreen=""
+                                    loading="lazy">
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Línea divisoria -->
+                <hr class="footer-divider">
+
+                <!-- Redes sociales y derechos de autor -->
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start">
+                        <p class="mb-0">&copy; @DateTime.Now.Year - Todos los derechos reservados.</p>
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <ul class="list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a href="https://facebook.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://twitter.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://instagram.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.tiktok.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-tiktok"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.youtube.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                            </li>
+                            @* <li class="list-inline-item">
+                                <a href="https://linkedin.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com" target="_blank" class="text-decoration-none">
+                                    <i class="fab fa-github"></i> *@
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+
+
+    <!-- Incluir el modal de acceso denegado -->
+    @Html.Partial("_AccessDeniedModal")
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        $(function() {
+            // Verificar si el modo oscuro está habilitado al cargar la página
+            if(localStorage.getItem('dark-mode') === 'true') {
+                document.body.classList.add('dark-mode');
+                document.getElementById('toggle-theme').checked = true;
+            }
+
+            // Alternar entre el modo claro y oscuro
+            document.getElementById("toggle-theme").addEventListener("change", function() {
+                var body = document.body;
+                body.classList.toggle("dark-mode");
+
+                // Cambiar el icono del modo
+                var sunIcon = document.getElementById("sun-icon");
+                var moonIcon = document.getElementById("moon-icon");
+                if(body.classList.contains("dark-mode")) {
+                    sunIcon.style.display = "none";
+                    moonIcon.style.display = "block";
+                } else {
+                    sunIcon.style.display = "block";
+                    moonIcon.style.display = "none";
+                }
+
+                // Guardar la preferencia del usuario en localStorage
+                localStorage.setItem('dark-mode', body.classList.contains("dark-mode"));
+            });
+
+            var currentUrl = window.location.pathname.toLowerCase();
+            $("li a").each(function() {
+                var linkUrl = $(this).attr("href").toLowerCase();
+                if (currentUrl === linkUrl) {
+                    $(this).parent().addClass("active");
+                }
+            });
+
+            $("li").click(function() {
+                $("li").removeClass("active");
+                $(this).addClass("active");
+            });
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

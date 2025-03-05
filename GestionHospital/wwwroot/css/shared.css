@@ -1,0 +1,309 @@
+﻿body {
+    font-family: "Grandstander", cursive;
+    display: flex;
+    background: linear-gradient(135deg, #e6f0ff, #cce0ff); /* Gradiente azul claro */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.side-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 220px;
+    background: linear-gradient(180deg, #1c2e4a, #3a7bd5); /* Gradiente azul oscuro a azul medio */
+    padding: 20px 0;
+    transition: background-color 0.3s ease;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.nav-menu {
+    list-style: none;
+    padding: 0;
+    height: calc(100% - 150px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav-item {
+    padding: 15px 25px;
+    transition: background 0.3s ease, padding-left 0.3s ease;
+}
+
+    .nav-item a {
+        text-decoration: none;
+        color: #ecf0f1;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: color 0.3s ease;
+    }
+
+    .nav-item i {
+        font-size: 18px;
+    }
+
+    .nav-item:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding-left: 30px;
+    }
+
+    .nav-item.active {
+        background-color: #3a7bd5; /* Azul medio */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    }
+
+        .nav-item.active a {
+            color: #fff;
+        }
+
+.content {
+    margin-left: 220px;
+    padding: 20px;
+    width: calc(100% - 220px);
+    background: linear-gradient(90deg, #ffffff, #f0f7ff); /* Gradiente blanco a azul muy claro */
+    transition: margin-left 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background: linear-gradient(135deg, #0a1f3d, #1c2e4a); /* Gradiente azul oscuro */
+    color: #f1f1f1;
+}
+
+    body.dark-mode .side-nav {
+        background: linear-gradient(180deg, #1c2e4a, #3a7bd5); /* Gradiente azul oscuro a azul medio */
+    }
+
+    body.dark-mode .nav-item a {
+        color: #dcdde1;
+    }
+
+    body.dark-mode .nav-item:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    body.dark-mode .content {
+        background: linear-gradient(90deg, #1c2e4a, #2a4a6e); /* Gradiente azul oscuro */
+        color: #ecf0f1;
+    }
+
+    body.dark-mode footer {
+        background-color: #1c2e4a; /* Azul oscuro */
+        color: #dcdde1;
+    }
+
+        body.dark-mode footer a {
+            color: #3a7bd5; /* Azul medio */
+        }
+
+/* Estilos para el botón deslizable */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 34px;
+}
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 26px;
+        width: 26px;
+        border-radius: 50%;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        transition: 0.4s;
+    }
+
+input:checked + .slider {
+    background-color: #3a7bd5; /* Azul medio */
+}
+
+    input:checked + .slider:before {
+        transform: translateX(26px);
+    }
+
+.mode-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: white;
+}
+
+.fa-sun {
+    left: 8px;
+}
+
+.fa-moon {
+    right: 8px;
+}
+
+/* Estilos para el botón de Login/Logout */
+.nav-login {
+    margin-top: auto;
+    padding: 15px 25px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+    .nav-login a, .nav-login button {
+        color: #ecf0f1;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .nav-login button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    .nav-login:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
+.footer {
+    background-color: white;
+    color: black;
+    padding: 20px 0;
+    margin-top: auto;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .footer a {
+        color: black;
+        transition: color 0.3s ease;
+    }
+
+        .footer a:hover {
+            color: #3a7bd5; /* Azul medio */
+        }
+
+    .footer .footer-title {
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+        color: #3a7bd5; /* Azul medio */
+    }
+
+    .footer .list-unstyled li {
+        margin-bottom: 0.5rem;
+    }
+
+    .footer .list-inline-item {
+        margin: 0 10px;
+    }
+
+    .footer .fab {
+        font-size: 20px;
+    }
+
+    .footer .footer-divider {
+        border-color: rgba(255, 255, 255, 0.1);
+        margin: 1.5rem 0;
+    }
+
+body.dark-mode .footer {
+    background-color: #1c2e4a; /* Azul oscuro */
+    color: #dcdde1;
+}
+
+    body.dark-mode .footer a {
+        color: #dcdde1;
+    }
+
+        body.dark-mode .footer a:hover {
+            color: #3a7bd5; /* Azul medio */
+        }
+
+    body.dark-mode .footer .footer-title {
+        color: #3a7bd5; /* Azul medio */
+    }
+
+/* Estilos para el modal en modo oscuro */
+body.dark-mode .modal-content {
+    background-color: #1c2e4a; /* Fondo oscuro */
+    color: #ecf0f1; /* Texto claro */
+}
+
+body.dark-mode .modal-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Borde inferior claro */
+}
+
+body.dark-mode .modal-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.1); /* Borde superior claro */
+}
+
+body.dark-mode .modal-title {
+    color: #ecf0f1; /* Texto claro para el título */
+}
+
+body.dark-mode .btn-close {
+    filter: invert(1); /* Invertir el color del ícono de cierre para que sea visible en fondo oscuro */
+}
+
+body.dark-mode .form-control {
+    background-color: #2a4a6e; /* Fondo oscuro para los inputs */
+    color: #ecf0f1; /* Texto claro para los inputs */
+    border-color: rgba(255, 255, 255, 0.1); /* Borde claro para los inputs */
+}
+
+    body.dark-mode .form-control:focus {
+        background-color: #2a4a6e; /* Fondo oscuro para los inputs enfocados */
+        color: #ecf0f1; /* Texto claro para los inputs enfocados */
+        border-color: #3a7bd5; /* Borde azul medio para los inputs enfocados */
+        box-shadow: 0 0 0 0.25rem rgba(58, 123, 213, 0.25); /* Sombra azul medio para los inputs enfocados */
+    }
+
+body.dark-mode .invalid-feedback {
+    color: #ff6b6b; /* Color rojo claro para los mensajes de error */
+}
+
+body.dark-mode .btn-success {
+    background-color: #28a745; /* Verde para el botón de guardar */
+    border-color: #28a745;
+}
+
+body.dark-mode .btn-secondary {
+    background-color: #6c757d; /* Gris para el botón de limpiar */
+    border-color: #6c757d;
+}
+
+body.dark-mode .btn-success:hover {
+    background-color: #218838; /* Verde más oscuro al pasar el mouse */
+    border-color: #1e7e34;
+}
+
+body.dark-mode .btn-secondary:hover {
+    background-color: #5a6268; /* Gris más oscuro al pasar el mouse */
+    border-color: #545b62;
+}

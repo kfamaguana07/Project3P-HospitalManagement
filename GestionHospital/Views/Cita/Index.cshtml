@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Citas";
+    var userRoles = string.Join(",", User.Claims.Where(c => c.Type == System.Security.Claims.ClaimTypes.Role).Select(c => c.Value));
+}
+
+<h1 class="display-6 text-primary text-center fw-bold">Citas</h1>
+
+<br />
+
+<button type="button" class="btn btn-success" id="btnNuevoCita" data-bs-toggle="modal" onclick="MostrarModal()">
+	Registrar Nueva Cita
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-plus-fill" viewBox="0 0 16 16">
+        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M8.5 7v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V7a.5.5 0 0 1 1 0" />
+    </svg>
+</button>
+
+<br />
+<br />
+
+<div class="card shadow">
+    <div class="card-header text-white" style="background-color: #60a5fa;">
+        <h5 class="mb-0">Historial de Citas</h5>
+    </div>
+    <div class="card-body">
+        <div id="divContenedorTabla" class="table table-striped"></div>
+    </div>
+</div>
+
+<!-- Modal para Citas -->
+<div class="modal fade" id="modalCita" tabindex="-1" aria-labelledby="modalCitaLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalCitaLabel">Gestionar Cita</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmCita" method="post" class="row g-3">
+                    <div class="col-md-3">
+                        <label for="inputIdCita" class="form-label">Id Cita</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idCita" id="idCita" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="cboPaciente" class="form-label">Paciente</label>
+                        <select class="form-control shadow-sm rounded" name="idPaciente" id="idPaciente">
+                            <option value=''>Seleccione un paciente</option>
+                            <!-- Opciones dinámicas aquí -->
+                        </select>
+                        <div class="invalid-feedback">Por favor, seleccione un paciente.</div>
+                    </div>
+                    <div class="col-md-5">
+                        <label for="cboMedico" class="form-label">Médico</label>
+                        <select class="form-control shadow-sm rounded" name="idMedico" id="idMedico">
+                            <option value=''>Seleccione un médico</option>
+                            <!-- Opciones dinámicas aquí -->
+                        </select>
+                        <div class="invalid-feedback">Por favor, seleccione un médico.</div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputFechaHora" class="form-label">Fecha y Hora</label>
+                        <input type="datetime-local" class="form-control shadow-sm rounded" name="fechaHora" id="fechaHora">
+                        <div class="invalid-feedback">Por favor, ingrese la fecha y hora.</div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="cboEstado" class="form-label">Estado</label>
+                        <select class="form-control shadow-sm rounded" name="estado" id="estado">
+                            <option value=''>Seleccione un estado</option>
+                            <option value="Pendiente">Pendiente</option>
+                            <option value="Confirmada">Confirmada</option>
+                        </select>
+                        <div class="invalid-feedback">Por favor, seleccione el estado.</div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="GuardarCita()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarCita()">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var userRoles = "@userRoles";
+</script>
+
+<script src="~/js/cita.js"></script>
+<script src="~/js/generic.js"></script>

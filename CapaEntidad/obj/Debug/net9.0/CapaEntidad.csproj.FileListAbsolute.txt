@@ -1,0 +1,36 @@
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\GestionHospital\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll

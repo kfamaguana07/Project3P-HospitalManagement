@@ -1,0 +1,957 @@
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cs
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.sourcelink.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\appsettings.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.runtime.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.endpoints.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.exe
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.deps.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.runtimeconfig.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.pdb
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\bundle\GestionHospital.styles.css
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\projectbundle\GestionHospital.bundle.scp.css
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\n3rclbfzzf-b9sayid5wm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rqu7ouz8i3-9xn7hbja3q.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\fa9nx49vmw-61n19gt1b8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yr20tf1paa-xtxxf3hu2r.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lxleadv1hb-bqjiyaj88i.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yp4522o0vu-c2jlpeoesf.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0tenyoqv7z-erw9l3u2r3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\euh7l9vt0y-aexeepp0ev.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ml3d8dw5mo-d7shbmvgxk.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\u71ldtqv98-ausgxo2sd3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3zfr2y8t16-k8d9w2qqmf.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\jhj2agefzc-cosvhxvwiu.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\99kc4aqtjd-ub07r2b239.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\o1lfekufb8-fvhpjtyr6v.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yp1dyy7woi-b7pk76d08c.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\mui8fag603-fsbi9cje9m.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0zm5xugtyf-rzd6atqjts.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tykfj8w70y-ee0r1s7dh0.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\thq2j8r8m4-dxx9fxp4il.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ktezgybewa-jd9uben2k1.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\mbwg2cvt1z-khv3u5hwcm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j9o3stft6n-r4e9w2rdcm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sbc2sv87gq-lcd1t2u6c8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qbcgndr5lg-c2oey78nd0.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\baz3eoqb1m-tdbxkamptv.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xxik8635xm-j5mq2jizvt.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\h8eldml5eg-06098lyss8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ijeg0b2t2z-nvvlpmu67g.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j0x1ydk9rf-s35ty4nyc5.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\irg6po4ncp-pj5nd1wqec.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8dhiktds19-46ein0sx1k.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\hrt8dh4oiz-v0zj4ognzu.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qz6ryndiss-37tfw0ft22.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4h5fzzuuhr-hrwsygsryq.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sy05i8q963-pk9g2wxc8p.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3le0n6kbl2-ft3s53vfgj.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t531k9hevd-6cfz1n2cew.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bfmz3x04fb-6pdc2jztkx.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\etoky8gduz-493y06b0oq.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xu24ih35gr-iovd86k7lj.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\dhrbmvjw9i-vr1egmr9el.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\6plm5igdys-kbrnm935zg.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\plzusjv3vt-jj8uyg4cgr.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4chf7fvsom-y7v9cxd14o.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\z8g7qgbg3n-notf2xhcfb.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j46srj42iz-h1s4sie4z3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\f4rssp11qq-63fj8s7r0e.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ez646o92d0-0j3bgjxly4.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bymfirdllj-47otxtyo56.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\69cpbract0-4v8eqarkd7.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\46cm3kp1lc-356vix0kms.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8irkc7tam7-83jwlth58m.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xn82884nyp-mrlpezrjn3.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nwzs0ouev0-lzl9nlhx6b.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\md0cyxidmu-ag7o75518u.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rngbun04q6-x0q3zqp4vz.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tge8pvkcuu-0i3buxo5is.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1j9hq7km6i-o1o13a6vjx.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1xndzi3d1u-ttgo8qnofa.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\97ybn72ngt-2z0ns9nrw6.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t2fg6ygdi1-muycvpuwrr.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ddfoonvscn-87fc7y1x7t.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j6avaihpxe-mlv21k5csn.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4grqpoehtx-0epr4fp2wm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\06lkkyug0d-0epr4fp2wm.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.build.GestionHospital.props
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GestionHospital.props
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GestionHospital.props
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionH.AE39FCEB.Up2Date
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\refint\GestionHospital.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.pdb
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.genruntimeconfig.cache
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\ref\GestionHospital.dll
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\7lb0a0dh89-dh72lmo7ye.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\appsettings.Development.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\appsettings.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.runtime.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.endpoints.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.exe
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.runtimeconfig.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\GestionHospital.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Azure.Core.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Azure.Identity.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Humanizer.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.ClientModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.CodeDom.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\bundle\GestionHospital.styles.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\scopedcss\projectbundle\GestionHospital.bundle.scp.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\n3rclbfzzf-b9sayid5wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rqu7ouz8i3-9xn7hbja3q.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\fa9nx49vmw-61n19gt1b8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\7lb0a0dh89-dh72lmo7ye.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yr20tf1paa-xtxxf3hu2r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lxleadv1hb-t1cqhe9u97.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yp4522o0vu-c2jlpeoesf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0tenyoqv7z-sejl45xvog.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\euh7l9vt0y-aexeepp0ev.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ml3d8dw5mo-xvp3kq03qx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\u71ldtqv98-ausgxo2sd3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3zfr2y8t16-22vffe00uq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\jhj2agefzc-cosvhxvwiu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\99kc4aqtjd-qesaa3a1fm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\o1lfekufb8-fvhpjtyr6v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\yp1dyy7woi-tmc1g35s3z.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\mui8fag603-fsbi9cje9m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\0zm5xugtyf-rxsg74s51o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tykfj8w70y-ee0r1s7dh0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\thq2j8r8m4-q9ht133ko3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ktezgybewa-jd9uben2k1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\mbwg2cvt1z-gye83jo8yx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j9o3stft6n-r4e9w2rdcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sbc2sv87gq-wl58j5mj3v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qbcgndr5lg-c2oey78nd0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\baz3eoqb1m-d4r6k3f320.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xxik8635xm-j5mq2jizvt.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\h8eldml5eg-keugtjm085.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ijeg0b2t2z-nvvlpmu67g.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j0x1ydk9rf-zub09dkrxp.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\irg6po4ncp-pj5nd1wqec.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8dhiktds19-43atpzeawx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\hrt8dh4oiz-v0zj4ognzu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\qz6ryndiss-ynyaa8k90p.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4h5fzzuuhr-hrwsygsryq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\sy05i8q963-c63t5i9ira.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\3le0n6kbl2-ft3s53vfgj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t531k9hevd-4094rpi4f9.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bfmz3x04fb-6pdc2jztkx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\etoky8gduz-hd3gran6i8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xu24ih35gr-iovd86k7lj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\dhrbmvjw9i-ltid2c489k.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\6plm5igdys-kbrnm935zg.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\plzusjv3vt-8vyfqsqgz1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4chf7fvsom-y7v9cxd14o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\z8g7qgbg3n-u9q1upor1n.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j46srj42iz-h1s4sie4z3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\f4rssp11qq-4d85u1mtcx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ez646o92d0-0j3bgjxly4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\bymfirdllj-03hjc8e09r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\69cpbract0-48y08845bh.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\46cm3kp1lc-356vix0kms.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\8irkc7tam7-83jwlth58m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\xn82884nyp-mrlpezrjn3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\nwzs0ouev0-worgj0nhwm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\md0cyxidmu-gk0pw8i4co.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\rngbun04q6-x0q3zqp4vz.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\tge8pvkcuu-d6nrnj6jjx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1j9hq7km6i-m9qm4tazc0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\1xndzi3d1u-ttgo8qnofa.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\97ybn72ngt-jjsuc0puko.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\t2fg6ygdi1-9vr69e8ynj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ddfoonvscn-87fc7y1x7t.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\j6avaihpxe-mlv21k5csn.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\4grqpoehtx-0epr4fp2wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\06lkkyug0d-0epr4fp2wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.build.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.development.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.build.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionH.AE39FCEB.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\refint\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\GestionHospital.genruntimeconfig.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\ref\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ce4gvt0z5r-aehfvrmknf.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ce4gvt0z5r-txrowe1r4j.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\th9pcjl0mf-3r8b2a0bt1.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\c8vl543l70-2270dj0o80.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ksv0e2aswp-bq2h3f8s9l.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\41yw2cwyqq-vdwsud5gqw.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\ksv0e2aswp-nit6wg63y8.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\41yw2cwyqq-vdwsud5gqw.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\iuqvm1mr8t-ok4lu7yjz5.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9gpk7cwhfg-qh8hdchfug.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lph9dque12-9bkwcvk7si.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\62tlvmph1h-1bmeodnnq4.gz
+C:\Users\dalex\source\repos\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\92728zs8kr-nmwbx2rro6.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\th9pcjl0mf-he1g6vpx0a.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\9gpk7cwhfg-qh8hdchfug.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\92728zs8kr-nmwbx2rro6.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\lph9dque12-9bkwcvk7si.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\62tlvmph1h-1bmeodnnq4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\iuqvm1mr8t-f6k2qq6ijj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\cbj4oxrkzp-go9xsolj3z.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\GestionHospital\GestionHospital\obj\Debug\net9.0\compressed\c8vl543l70-uy7u9bt9qq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\appsettings.Development.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\appsettings.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.endpoints.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.staticwebassets.runtime.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.exe
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.deps.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.runtimeconfig.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\GestionHospital.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Azure.Core.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Azure.Identity.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Humanizer.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.ClientModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.CodeDom.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaDatos.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaEntidad.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaNegocio.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaNegocio.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaDatos.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\bin\Debug\net9.0\CapaEntidad.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.AssemblyReference.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfoInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.AssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.csproj.CoreCompileInputs.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.MvcApplicationPartsAssemblyInfo.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.RazorAssemblyInfo.cs
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.sourcelink.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\scopedcss\bundle\GestionHospital.styles.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\scopedcss\projectbundle\GestionHospital.bundle.scp.css
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ce4gvt0z5r-aehfvrmknf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ksv0e2aswp-bq2h3f8s9l.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\th9pcjl0mf-he1g6vpx0a.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\cbj4oxrkzp-go9xsolj3z.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\c8vl543l70-uy7u9bt9qq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\n3rclbfzzf-b9sayid5wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\rqu7ouz8i3-9xn7hbja3q.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\fa9nx49vmw-61n19gt1b8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\7lb0a0dh89-dh72lmo7ye.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\9gpk7cwhfg-qh8hdchfug.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\92728zs8kr-nmwbx2rro6.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\lph9dque12-9bkwcvk7si.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\62tlvmph1h-1bmeodnnq4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\iuqvm1mr8t-f6k2qq6ijj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\yr20tf1paa-xtxxf3hu2r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\41yw2cwyqq-vdwsud5gqw.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\lxleadv1hb-t1cqhe9u97.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\yp4522o0vu-c2jlpeoesf.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\0tenyoqv7z-sejl45xvog.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\euh7l9vt0y-aexeepp0ev.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ml3d8dw5mo-xvp3kq03qx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\u71ldtqv98-ausgxo2sd3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\3zfr2y8t16-22vffe00uq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\jhj2agefzc-cosvhxvwiu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\99kc4aqtjd-qesaa3a1fm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\o1lfekufb8-fvhpjtyr6v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\yp1dyy7woi-tmc1g35s3z.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\mui8fag603-fsbi9cje9m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\0zm5xugtyf-rxsg74s51o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\tykfj8w70y-ee0r1s7dh0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\thq2j8r8m4-q9ht133ko3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ktezgybewa-jd9uben2k1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\mbwg2cvt1z-gye83jo8yx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j9o3stft6n-r4e9w2rdcm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\sbc2sv87gq-wl58j5mj3v.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\qbcgndr5lg-c2oey78nd0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\baz3eoqb1m-d4r6k3f320.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\xxik8635xm-j5mq2jizvt.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\h8eldml5eg-keugtjm085.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ijeg0b2t2z-nvvlpmu67g.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j0x1ydk9rf-zub09dkrxp.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\irg6po4ncp-pj5nd1wqec.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\8dhiktds19-43atpzeawx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\hrt8dh4oiz-v0zj4ognzu.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\qz6ryndiss-ynyaa8k90p.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\4h5fzzuuhr-hrwsygsryq.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\sy05i8q963-c63t5i9ira.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\3le0n6kbl2-ft3s53vfgj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\t531k9hevd-4094rpi4f9.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\bfmz3x04fb-6pdc2jztkx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\etoky8gduz-hd3gran6i8.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\xu24ih35gr-iovd86k7lj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\dhrbmvjw9i-ltid2c489k.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\6plm5igdys-kbrnm935zg.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\plzusjv3vt-8vyfqsqgz1.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\4chf7fvsom-y7v9cxd14o.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\z8g7qgbg3n-u9q1upor1n.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j46srj42iz-h1s4sie4z3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\f4rssp11qq-4d85u1mtcx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ez646o92d0-0j3bgjxly4.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\bymfirdllj-03hjc8e09r.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\69cpbract0-48y08845bh.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\46cm3kp1lc-356vix0kms.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\8irkc7tam7-83jwlth58m.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\xn82884nyp-mrlpezrjn3.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\nwzs0ouev0-worgj0nhwm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\md0cyxidmu-gk0pw8i4co.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\rngbun04q6-x0q3zqp4vz.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\tge8pvkcuu-d6nrnj6jjx.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\1j9hq7km6i-m9qm4tazc0.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\1xndzi3d1u-ttgo8qnofa.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\97ybn72ngt-jjsuc0puko.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\t2fg6ygdi1-9vr69e8ynj.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\ddfoonvscn-87fc7y1x7t.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\j6avaihpxe-mlv21k5csn.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\4grqpoehtx-0epr4fp2wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\compressed\06lkkyug0d-0epr4fp2wm.gz
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets.build.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets.development.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.GestionHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.build.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GestionHospital.props
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionH.AE39FCEB.Up2Date
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\refint\GestionHospital.dll
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.pdb
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\GestionHospital.genruntimeconfig.cache
+D:\ESPE\CUARTO SEMESTRE\Programacion Web\Project3P-HospitalManagement\GestionHospital\obj\Debug\net9.0\ref\GestionHospital.dll
